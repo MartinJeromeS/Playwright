@@ -14,7 +14,7 @@ test('Handling Windows', async ({page})=>{
    
    const textInNewPage = await newPage.locator("//p[contains(text(),'If you want to create ro')]").innerText()
 
-   console.log('Random text in new page is : ', textInNewPage)
+   //console.log('Random text in new page is : ', textInNewPage)
 
   
    await page.bringToFront()
