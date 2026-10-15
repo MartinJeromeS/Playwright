@@ -24,3 +24,9 @@ test('Launching amazon website', async ({page})=>{
   await page.goto('https://www.amazon.in/')
 })
 
+
+test('Flipkart Test',async({page})=>{
+
+  await page.goto('https://www.flipkart.com/')
+
+})
