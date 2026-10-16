@@ -1,0 +1,6 @@
+The Table's header are :  [ 'IDFirst NameLast NameEmailAgeSalaryDeptStatus' ]
+The entire table content are :  [
+  '1JohnSmithjohn.smith@company.com35$75,000EngineeringActive2SarahJohnsonsarah.j@company.com28$65,000MarketingActive3MichaelWilliamsm.williams@company.com42$95,000EngineeringActive4EmilyBrownemily.brown@company.com31$55,000HROn Leave5DavidJonesd.jones@company.com45$120,000ExecutiveActive'
+]
+The data in 3rd row is :  [ '3MichaelWilliamsm.williams@company.com42$95,000EngineeringActive' ]
+Salary of all the employees are :  [ '$75,000', '$65,000', '$95,000', '$55,000', '$120,000' ]

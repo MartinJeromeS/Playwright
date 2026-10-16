@@ -1,0 +1,5 @@
+Url of the new page is  https://www.selenium.dev/
+Title of the new page is Selenium
+Random text from parent page is : Automation Demo Site 
+Url of the parent page is :  https://demo.automationtesting.in/Windows.html
+Title of the current page is :  Frames & windows
