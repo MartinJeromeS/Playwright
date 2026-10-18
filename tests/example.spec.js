@@ -30,3 +30,12 @@ test('Flipkart Test',async({page})=>{
   await page.goto('https://www.flipkart.com/')
 
 })
+
+test('Flipkart Test1',async({page})=>{
+
+  await page.goto('https://www.flipkart.com/')
+
+})
+
+
+
